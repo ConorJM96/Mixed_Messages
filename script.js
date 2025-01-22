@@ -15,12 +15,17 @@ const colourNumber = ColourResult.split('\n');
 // Function to create mixed message
 
 const mixedMessage = (arr1, arr2, arr3, arr4) => {
-    let first = arr1[0];
+    let first = arr1[Math.floor(Math.random() * 12)];
+    let second = arr2[Math.floor(Math.random() * 12)];
+    let third = arr3[Math.floor(Math.random() * 12)];
+    let fourth = arr4[Math.floor(Math.random() * 12)];
+
+    console.log(`${first}...${second} ${third}..${fourth}`);
 }
 
 // Test area
 
-console.log(starSign.length, firstPart.length, secondPart.length, colourNumber.length);
+mixedMessage(starSign, firstPart, secondPart, colourNumber);
 
 
 
