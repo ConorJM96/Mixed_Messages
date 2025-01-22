@@ -1,0 +1,12 @@
+Colour: Velvet-black Number: 2.
+Colour: Sky-blue Number: 8.
+Colour: Olive- green Number: 3.
+Colour: Coffee-brown Number: 6.
+Colour: Sunflower-yellow Number: 4.
+Colour: Pink-gold Number: 7.
+Colour: Steel-grey Number: 1.
+Colour: Fire-red Number: 9.
+Colour: Rose-pink Number: 5.
+Colour: Aqua-green Number: 1.
+Colour: Copper-sheen Number: 9.
+Colour: Snow-white Number: 3.
